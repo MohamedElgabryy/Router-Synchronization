@@ -1,0 +1,48 @@
+c1 (m) arrived 
+c2 (s) arrived 
+Connection 1: c2 Occupied 
+Connection 2: c1 Occupied 
+Connection 1: c2 Performs online activity 
+Connection 2: c1 Performs online activity 
+Connection 1: c2 Logged out 
+Connection 2: c1 Logged out 
+c3 (r) arrived and waiting 
+c4 (j) arrived and waiting 
+Connection 1: c4 Occupied 
+Connection 2: c3 Occupied 
+Connection 2: c3 Performs online activity 
+Connection 1: c4 Performs online activity 
+Connection 1: c4 Logged out 
+Connection 2: c3 Logged out 
+c1 (m) arrived 
+c2 (s) arrived 
+Connection 1: c2 Occupied 
+Connection 2: c1 Occupied 
+Connection 1: c2 Performs online activity 
+Connection 2: c1 Performs online activity 
+Connection 1: c2 Logged out 
+c3 (g) arrived and waiting 
+Connection 2: c1 Logged out 
+c4 (y) arrived and waiting 
+Connection 2: c3 Occupied 
+Connection 1: c4 Occupied 
+Connection 1: c4 Performs online activity 
+Connection 2: c3 Performs online activity 
+Connection 2: c3 Logged out 
+Connection 1: c4 Logged out 
+c1 (m) arrived 
+c2 (t) arrived 
+Connection 1: c2 Occupied 
+Connection 2: c1 Occupied 
+Connection 1: c2 Performs online activity 
+Connection 2: c1 Performs online activity 
+Connection 1: c2 Logged out 
+Connection 2: c1 Logged out 
+c3 (pc) arrived and waiting 
+c4 (m) arrived and waiting 
+Connection 1: c4 Occupied 
+Connection 2: c3 Occupied 
+Connection 2: c3 Performs online activity 
+Connection 1: c4 Performs online activity 
+Connection 1: c4 Logged out 
+Connection 2: c3 Logged out 
